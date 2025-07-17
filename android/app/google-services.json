@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "213910507258",
+    "project_id": "bakear-cf573",
+    "storage_bucket": "bakear-cf573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213910507258:android:f20fce45876d456c9dc343",
+        "android_client_info": {
+          "package_name": "com.bake.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEFUTCxcl5czVbZsUKfOz3FBmIONVt_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213910507258:android:69488ab7fe0d3ec79dc343",
+        "android_client_info": {
+          "package_name": "com.bakear.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEFUTCxcl5czVbZsUKfOz3FBmIONVt_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213910507258:android:eeb2955bd184802f9dc343",
+        "android_client_info": {
+          "package_name": "com.cheng.ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEFUTCxcl5czVbZsUKfOz3FBmIONVt_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213910507258:android:a990776181b795d49dc343",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEFUTCxcl5czVbZsUKfOz3FBmIONVt_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213910507258:android:78c07d11c451a0749dc343",
+        "android_client_info": {
+          "package_name": "com.example.bake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEFUTCxcl5czVbZsUKfOz3FBmIONVt_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
